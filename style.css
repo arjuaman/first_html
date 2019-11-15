@@ -1,0 +1,49 @@
+body{
+	background-color:white ;
+	font-family:helvetico;
+}
+h1{
+	color:violet;
+	font-family: "Times new roman";
+	word-spacing:0.09em;
+	text-transform:uppercase;
+}
+h3{
+	color:green;
+	letter-spacing:0.05em;
+	font-family: serif;
+}
+p{
+	color:rgb(148,209,100);
+	font-family:monospace;
+	font-size:0.9em;
+	line-height: 0.8em;
+}
+ol{
+	color:hsl(149,88%,48%);
+	font-family:monospace;
+}
+ul{
+	color:#E09F2D;
+	font-family:monospace;
+}
+a{
+	font-weight:bold;
+	text-decoration:underline;
+	font-style:italic;
+	font-family:sans-serif;
+	color:#151814;
+}
+a:visited{
+	color:#858C7B;
+}
+a:hover{
+	background-color:#55DDE7 ;
+	text-transform:uppercase;
+}
+a:active{
+	background-color: #F3FFE1;
+}
+li{
+	color:orange;
+}
